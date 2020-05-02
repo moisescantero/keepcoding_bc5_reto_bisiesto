@@ -7,7 +7,7 @@ Test de pruebas: SI 2004 2008 2012
                 NO 2100 2200 2300
                 SI 1600 2000 2400"""
 
-#import leap_year_module
+
 import leap_year_module
 
 result_leap_year = leap_year_module.find_leap_year(input("Introduzca año: "))
